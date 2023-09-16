@@ -16,6 +16,6 @@ There three function to saved  data to local storage.  getCartFromLS - is find c
 Install my-project with npm
 
 ```bash
-  npm i saved-to-ls
+  npm i saved-to-localstorage
 ```
     
